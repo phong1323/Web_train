@@ -33,7 +33,6 @@ https://battle.cookiearena.org/challenges/web/baby-sql-injection-to-rcehttps://b
 - Tìm hiểu một số kĩ thuật bypass command injection phổ biến và demo tích hợp với web ở trên
 - Làm 7 bài sau:
 https://battle.cookiearena.org/challenges/web/nslookup-level-1https://battle.cookiearena.org/challenges/web/nslookup-level-2https://battle.cookiearena.org/challenges/web/nslookup-level-3https://battle.cookiearena.org/challenges/web/ethical-ping-pong-clubhttps://battle.cookiearena.org/challenges/web/blind-command-injectionhttps://battle.cookiearena.org/skills-path/os-command-injection/challenge/command-limit-lengthhttps://battle.cookiearena.org/skills-path/os-command-injection/challenge/time
-
 LƯU Ý: Viết write up đầy đủ
 DEADLINE: 24h 25/6https://battle.cookiearena.org/challenges/web/nslookup-level-1
 ---

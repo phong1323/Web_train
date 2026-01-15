@@ -1,6 +1,6 @@
 # Task 3
 
-Text: TASK 3
+TASK 3
 - Viết code python tự động khai thác cho 18 lab cũ
 - Làm thêm 3 lab:
 https://battle.cookiearena.org/challenges/web/baby-sql-injection-to-rcehttps://battle.cookiearena.org/challenges/web/simple-blind-sql-injectionhttps://battle.cookiearena.org/challenges/web/blind-logger-middleware
